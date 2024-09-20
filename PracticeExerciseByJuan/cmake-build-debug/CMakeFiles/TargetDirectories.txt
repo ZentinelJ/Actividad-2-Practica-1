@@ -1,0 +1,3 @@
+/home/villa/CLionProjects/PracticeExerciseByJuan/cmake-build-debug/CMakeFiles/PracticeExerciseByJuan.dir
+/home/villa/CLionProjects/PracticeExerciseByJuan/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/villa/CLionProjects/PracticeExerciseByJuan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
